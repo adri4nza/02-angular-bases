@@ -25,7 +25,6 @@ export class DbzService {
 
   addCharacter(character: Character): void {
     const newCharacter: Character = { ...character, id: uuid() };
-
     this.characters.push(newCharacter);
   }
 
