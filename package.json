@@ -20,6 +20,7 @@
     "@angular/router": "^17.3.1",
     "rxjs": "~7.8.1",
     "tslib": "^2.6.2",
+    "uuid": "^9.0.1",
     "zone.js": "~0.14.4"
   },
   "devDependencies": {
@@ -27,6 +28,7 @@
     "@angular/cli": "^17.3.1",
     "@angular/compiler-cli": "^17.3.1",
     "@types/jasmine": "~5.1.4",
+    "@types/uuid": "^9.0.8",
     "jasmine-core": "~5.1.2",
     "karma": "~6.4.3",
     "karma-chrome-launcher": "~3.2.0",
